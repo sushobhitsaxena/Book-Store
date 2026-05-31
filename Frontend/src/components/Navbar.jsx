@@ -136,28 +136,80 @@ function Navbar() {
 
           </div>
 
-          {/* Logo */}
-          <Link
-            to="/"
-            className="
-              text-lg
-              md:text-3xl
-              font-extrabold
-              cursor-pointer
-              tracking-wide
-              whitespace-nowrap
-            "
-          >
+         {/* Premium Logo */}
+<Link
+  to="/"
+  className="
+    flex
+    items-center
+    gap-2
+    font-extrabold
+    tracking-wide
+    whitespace-nowrap
+    group
+  "
+>
 
-            <span className='text-primary'>
-              Book
-            </span>
+  {/* Logo Icon */}
+  <div
+    className="
+      w-8
+      h-8
+      md:w-10
+      md:h-10
+      rounded-full
+      bg-gradient-to-r
+      from-pink-500
+      to-purple-600
+      flex
+      items-center
+      justify-center
+      shadow-lg
+      group-hover:scale-110
+      transition-all
+      duration-300
+    "
+  >
 
-            <span className='text-pink-500'>
-              -Store
-            </span>
+    <span className="text-white text-sm md:text-lg">
+      📚
+    </span>
 
-          </Link>
+  </div>
+
+  {/* Logo Text */}
+  <div className="leading-tight">
+
+    <h1
+      className="
+        text-lg
+        md:text-2xl
+        font-black
+        bg-gradient-to-r
+        from-pink-500
+        to-purple-500
+        bg-clip-text
+        text-transparent
+      "
+    >
+      BookStore
+    </h1>
+
+    <p
+      className="
+        text-[8px]
+        md:text-xs
+        text-gray-400
+        tracking-[2px]
+        uppercase
+      "
+    >
+ 
+    </p>
+
+  </div>
+
+</Link>
 
         </div>
 

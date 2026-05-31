@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Harry Potter",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "category": "Free",
+    "price": 0,
+    "image": "https://images.unsplash.com/photo-1626618012641-bfbca5a31239?q=80&w=764&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Narnia",
+    "title": "The Chronicles of Narnia",
+    "category": "Free",
+    "price": 0,
+    "image": "https://images.unsplash.com/photo-1629992101753-56d196c8aabb?q=80&w=690&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Meluha",
+    "title": "The Immortals of Meluha",
+    "category": "Free",
+    "price": 0,
+    "image": "https://images.unsplash.com/photo-1642313927514-8c58d8ad0268?q=80&w=735&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Pride And Prejudice",
+    "title": "Classic Romantic Novel",
+    "category": "Free",
+    "price": 0,
+    "image": "https://images.unsplash.com/photo-1603162525937-96b43acdac7b?q=80&w=764&auto=format&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "Atomic Habits",
+    "title": "Build Better Habits Everyday",
+    "category": "Free",
+    "price": 0,
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?q=80&w=765&auto=format&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Rich Dad Poor Dad",
+    "title": "Personal Finance Guide",
+    "category": "Free",
+    "price": 0,
+    "image": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?q=80&w=764&auto=format&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "The Alchemist",
+    "title": "A Journey Of Dreams",
+    "category": "Free",
+    "price": 0,
+    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?q=80&w=735&auto=format&fit=crop"
+  },
+  {
+    "id": 8,
+    "name": "Think And Grow Rich",
+    "title": "Success And Wealth Mindset",
+    "category": "Free",
+    "price": 0,
+    "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?q=80&w=764&auto=format&fit=crop"
+  },
+
+
+  {
+    "id": 9,
+    "name": "The Silent Patient",
+    "title": "Psychological Thriller Novel",
+    "category": "Paid",
+    "price": 499,
+    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 10,
+    "name": "Atomic Habits",
+    "title": "Build Better Habits",
+    "category": "Paid",
+    "price": 699,
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 11,
+    "name": "Rich Dad Poor Dad",
+    "title": "Financial Education Guide",
+    "category": "Paid",
+    "price": 799,
+    "image": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 12,
+    "name": "Ikigai",
+    "title": "Japanese Secret To Long Life",
+    "category": "Paid",
+    "price": 599,
+    "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 13,
+    "name": "Deep Work",
+    "title": "Rules For Focused Success",
+    "category": "Paid",
+    "price": 899,
+    "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 14,
+    "name": "Think Like A Monk",
+    "title": "Train Your Mind For Peace",
+    "category": "Paid",
+    "price": 649,
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 15,
+    "name": "The Psychology Of Money",
+    "title": "Timeless Lessons On Wealth",
+    "category": "Paid",
+    "price": 999,
+    "image": "https://images.unsplash.com/photo-1526243741027-444d633d7365?q=80&w=1000&auto=format&fit=crop"
+  },
+  {
+    "id": 16,
+    "name": "The Power Of Now",
+    "title": "Guide To Spiritual Enlightenment",
+    "category": "Paid",
+    "price": 749,
+    "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?q=80&w=1000&auto=format&fit=crop"
+  }
+]

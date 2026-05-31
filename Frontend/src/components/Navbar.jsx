@@ -150,64 +150,63 @@ function Navbar() {
   "
 >
 
-  {/* Logo Icon */}
+  {/* Compact Professional Logo */}
+<Link
+  to="/"
+  className="
+    flex
+    items-center
+    gap-2
+    group
+    whitespace-nowrap
+  "
+>
+
+  {/* Icon */}
   <div
     className="
       w-8
       h-8
-      md:w-10
-      md:h-10
-      rounded-full
+      rounded-xl
       bg-gradient-to-r
       from-pink-500
       to-purple-600
       flex
       items-center
       justify-center
-      shadow-lg
+      shadow-md
       group-hover:scale-110
       transition-all
       duration-300
     "
   >
 
-    <span className="text-white text-sm md:text-lg">
-      📚
+    <span className="text-white text-sm font-bold">
+      B
     </span>
 
   </div>
 
-  {/* Logo Text */}
-  <div className="leading-tight">
+  {/* Text */}
+  <h1
+    className="
+      text-sm
+      md:text-xl
+      font-bold
+      bg-gradient-to-r
+      from-pink-500
+      to-purple-500
+      bg-clip-text
+      text-transparent
+      tracking-wide
+    "
+  >
+    BookStore
+  </h1>
 
-    <h1
-      className="
-        text-lg
-        md:text-2xl
-        font-black
-        bg-gradient-to-r
-        from-pink-500
-        to-purple-500
-        bg-clip-text
-        text-transparent
-      "
-    >
-      BookStore
-    </h1>
+</Link>
 
-    <p
-      className="
-        text-[8px]
-        md:text-xs
-        text-gray-400
-        tracking-[2px]
-        uppercase
-      "
-    >
  
-    </p>
-
-  </div>
 
 </Link>
 
